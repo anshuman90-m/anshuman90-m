@@ -1,39 +1,74 @@
-# 🌸 Hey there, I'm Anshuman!
+<h1 align="center">👋 Hey there, I'm Anshuman</h1>
 
-💻 Aspiring Developer  
-📊 Learning Data Analytics & Web Development  
-🚀 Building Projects and Improving Skills  
+<p align="center">
+Aspiring Data Analyst 📊 | Web Developer 💻 <br>
+Turning data into insights & building real-world projects 🚀
+</p>
 
 ---
 
 ## 🧠 About Me
+
 - 🎓 O Level Student  
-- 💡 Interested in Data Analytics & Web Dev  
+- 📊 Interested in Data Analytics & Web Development  
 - 📍 India  
-- 🔥 Open to Internship  
+- 🔥 Open to Internship Opportunities  
 
 ---
 
 ## 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+
+### 💻 Programming & Development
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+
+### 📊 Data & Analytics
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-red?style=for-the-badge&logo=microsoftsqlserver)
 ![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Advanced%20Excel-green?style=for-the-badge&logo=microsoft-excel)
+
+### 🎨 Tools
+![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva)
 
 ---
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
+## 🌐 Connect with Me
+
+<p>
+<a href="https://linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram">
+</a>
+
+<a href="mailto:yourgmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+</a>
+</p>
 
 ---
 
 ## 🚀 Projects
+
 - 🔹 Portfolio Website  
-- 🔹 Data Analysis Projects  
-- 🔹 Mini Web Apps  
+- 🔹 Data Analysis Projects (SQL + Power BI)  
+- 🔹 Mini Web Applications  
 
 ---
 
-✨ “Learning every day & growing step by step”
+## 📈 Goals
+
+- 📊 Become a Professional Data Analyst  
+- 💻 Improve Web Development Skills  
+- 🚀 Build Real-World Projects  
+
+---
+
+<p align="center">
+✨ "Keep Learning • Keep Building • Keep Growing" 🚀
+</p>
