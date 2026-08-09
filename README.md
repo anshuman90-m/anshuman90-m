@@ -11,9 +11,8 @@ Turning data into insights & building real-world projects 🚀
 
 - 🎓 O Level Student  
 - 📊 Interested in Data Analytics & Web Development  
-- 📍 India  
-- 🔥 Open to Internship Opportunities  
-
+- 📍 India
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -46,18 +45,10 @@ Turning data into insights & building real-world projects 🚀
 <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram">
 </a>
 
-<a href="mailto:yourgmail@gmail.com">
+<a href="mailto:Mathuranshumaan01@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
-
----
-
-## 🚀 Projects
-
-- 🔹 Portfolio Website  
-- 🔹 Data Analysis Projects (SQL + Power BI)  
-- 🔹 Mini Web Applications  
 
 ---
 
