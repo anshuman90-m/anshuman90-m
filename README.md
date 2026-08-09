@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 🌸 Hey there, I'm Anshuman!
 
 💻 Aspiring Developer  
