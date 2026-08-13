@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Anshuman</h1>
 
-Welcome to my little corner of GitHub!
+<p align="center">Welcome to my little corner of GitHub!</p>
 
 <p align="center">
 Aspiring Data Analyst 📊 | Web Developer 💻 <br>
