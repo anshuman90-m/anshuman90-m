@@ -3,7 +3,7 @@
 <p align="center">Welcome to my little corner of GitHub!</p>
 
 <p align="center">
-Junior Data Analyst| Turning data into clear insights
+Junior Data Analyst | Turning data into clear insights
 <p align="center">I enjoy working on real problems — cleaning data, analyzing patterns, building dashboards, and finding useful insights through self-driven projects.</p>
 <p align="center">"Currently seeking opportunities as a Data Analyst.</p>
 </p>
