@@ -5,9 +5,9 @@
 <p align="center">
 Data Analyst | Turning data into clear insights
   
-<br align="center">I enjoy working on real problems — cleaning data, analyzing patterns, building dashboards, and finding useful insights through self-driven projects.</br>
+<p align="center">I enjoy working on real problems — cleaning data, analyzing patterns, building dashboards, and finding useful insights through self-driven projects.</p>
 
-<br align="center">"Currently seeking opportunities as a Data Analyst.
+<p align="center">"Currently seeking opportunities as a Data Analyst.</p>
 </p>
 
 ---
