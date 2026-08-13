@@ -11,7 +11,7 @@ Turning data into insights & building real-world projects 🚀
 
 ## 🧠 About Me
 
-- 🎓 O Level Student  
+- 🎓 NIELIT O Level Certified
 - 📊 Interested in Data Analytics & Web Development  
 - 📍 India
   
@@ -39,11 +39,11 @@ Turning data into insights & building real-world projects 🚀
 ## 🌐 Connect with Me
 
 <p>
-<a href="https://linkedin.com/">
+<a href="www.linkedin.com/in/anshuman-mathur-1b7322311">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://instagram.com/">
+<a href="https://www.instagram.com/itz_mathur_anshu01/">
 <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram">
 </a>
 
