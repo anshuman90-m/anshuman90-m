@@ -3,16 +3,18 @@
 <p align="center">Welcome to my little corner of GitHub!</p>
 
 <p align="center">
-Aspiring Data Analyst 📊 | Web Developer 💻 <br>
-Turning data into insights & building real-world projects 🚀
+Data Analyst | Turning data into clear insights
+  
+<br>I enjoy working on real problems — cleaning data, analyzing patterns, building dashboards, and finding useful insights through self-driven projects.</br>
+
+Currently seeking opportunities as a Data Analyst.
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 NIELIT O Level Certified
-- 📊 Interested in Data Analytics & Web Development  
+- 🎓 NIELIT O Level Certified 
 - 📍 India
   
 ---
