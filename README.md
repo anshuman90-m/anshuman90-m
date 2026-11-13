@@ -42,7 +42,7 @@ I enjoy cleaning messy data, finding patterns, building interactive dashboards, 
 
 | Certificate | Issuer | Key Skills Covered | Year |
 |-------------|--------|---------------------|------|
-| **NIELIT O Level** | NIELIT | Computer Fundamentals, Programming & IT Skills | - |
+| **NIELIT O Level** | NIELIT | Computer Fundamentals, Programming & IT Skills | Sep 2026 |
 | **Data Analytics Job Simulation** | Deloitte (Forage) | Data Analysis, Forensic Technology | Jan 2026 |
 | **GenAI Powered Data Analytics Job Simulation** | TATA (Forage) | EDA, Risk Profiling, Predicting Delinquency with AI, Data Storytelling, AI-driven Collections Strategy | Sep 2026 |
 | **GenAI Job Simulation** | BCG X (Forage) | Data Extraction & Analysis, AI-powered Financial Chatbot | Sep 2026 |
